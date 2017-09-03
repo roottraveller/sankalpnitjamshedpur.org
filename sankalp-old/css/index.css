@@ -1,0 +1,445 @@
+/*
+======================================================================
+                         Main container section rules all pages
+======================================================================
+*/
+
+body, html { font-size: 100%; padding: 0; margin: 0;}
+a {
+	/*color: rgb(168, 168, 168);*/
+	text-decoration:none;
+	outline:none;
+}
+a img {
+	border:none;
+}
+.clear {
+	clear:both;
+}
+.bold {
+	font-weight:bold;
+}
+.black {
+	color:black;
+}
+h1, h2, h3, h4, h5, h6 {
+	color:#b6040c!important;
+}
+h1 {
+	font-size:25px;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+h2 {
+	font-size:20px;
+	font-weight:normal;
+}
+h3 {
+	font-size:18px;
+	font-weight:normal;
+}
+h4 {
+	font-size:16px;
+	font-weight:normal;
+}
+h5 {
+	font-size:14px;
+	font-weight:normal;
+}
+h6 {
+	font-size:12px;
+	font-weight:normal;
+}
+p {
+	line-height:18px;
+}
+.left {
+	float:left !important;
+}
+.right {
+	float:right !important;
+}
+.left1 {
+	float:left !important;
+	background-color: rgb(223, 223, 223);
+}
+.right1 {
+	float:right !important;
+	background-color: rgb(223, 223, 223);
+}
+.left1:hover {
+    background-color: rgb(233, 233, 233);
+}
+.right1:hover {
+    background-color: rgb(233, 233, 233);
+}
+.itlc {
+	font-style:italic;
+}
+.colr {
+	color:#b6040c !important;
+}
+/*
+=======================================================================
+	Wrapper Section Rules
+=======================================================================
+*/
+#wrapper_sectop {
+	width:1000px;
+	margin:0px auto;
+}
+#wrapper_sec {
+	width:960px;
+	margin:0px auto;
+}
+#bg {
+
+padding: 0px;
+border: 0px none;
+outline: 0px none;
+font-size: inherit;
+vertical-align: baseline;
+    margin:auto;
+	background-color: #EEEEEE !important;
+	
+	/*background-repeat:repeat-x;*/
+	width:100%;
+	/*color: rgb(35, 35, 35);
+	background: url("../images/bg0.jpg") repeat-x !important ;
+	/*background:url(images/bg0.jpg) repeat-x;*/
+}
+.col1 {
+    float:left;
+	width:230px;
+	height:auto;
+}
+.col2 {
+    float:right;
+	width:700px;
+	height: auto;
+	/*color: rgb(182, 4, 12) !important;*/
+}
+
+/*
+===================================================
+                main content section
+==================================================
+*/
+.page_space {
+      width:100%;
+	  height:0px;
+	  clear:both;
+}
+.heading {
+   text-align:left;
+   font-family:calibri;
+   font-weight: bold;
+ border-bottom: 2px groove rgb(168, 168, 168);
+
+ }
+ .heading1 {
+   text-align:center;
+   font-family:calibri;
+   font-weight: bold;
+ border-bottom: 2px groove rgb(168, 168, 168);
+
+ }
+ .pagecontent {
+     font-family:Tahoma,Arial,sans-serif;
+	font-size:13.3px;
+	font-style:normal;
+	margin:0px;
+	width:100%;
+	padding-top:10px;
+	float:left;
+	display:inline-block;
+	border:none;
+	line-height:25px;
+	text-align: justify !important;
+	text-decoration:none;
+	color:rgb(0,0,0);
+	/*color: rgb(51, 51, 51);*/
+}
+.pagecontent p{
+	text-align:justify;
+	width:100%;
+	float:left;
+	line-height:20px;
+	
+}	
+.pageheading {
+}
+.imgchildlink {
+        width:100%;
+	height:150px;
+	font-size:14px;
+	border:hidden;
+	text-align: left;
+    padding:5px;
+	line-height:1.2;
+	background-color: rgb(223, 223, 223);
+}
+.imgchild {
+         float:left;
+	   width:150px;
+	   height:100px;
+	   padding-left:10px;
+}
+.imglink {
+    float:left;
+    width:300px;
+	height:100px;
+     padding: 1px;
+	 border: 1px solid gray;
+}
+.imgbox {
+       float:left;
+	   width:300px;
+	   height:auto;
+}
+.pagelink {
+     width:100%;
+	height:100px;
+	font-size:14px;
+	border:hidden;
+	text-align: left;
+    padding:5px;
+	background-color: rgb(223, 223, 223);
+	
+}
+.pagelink a{
+            padding-top:50px;
+			color:#000000;
+}
+.pagelink:hover {
+      background-color: rgb(233, 233, 233);
+ }
+.pagelink a:hover{
+  /* text-shadow: 0px 0px 3px rgb(255, 255, 255);*/
+color: rgb(200, 3, 3);
+ }
+ a:hover {
+    color: rgb(200, 3, 3);
+}
+ /*
+ ===============================================================
+                     contacts table 
+================================================================
+*/
+.table1_head {
+width:100%;
+height:auto;
+font-family: Stencil Std,calibri;
+color:#b6040c!important;
+text-align:left !important ;
+padding: 5px 10px;
+}
+.table1_head th {
+      width:230px;
+	  height:auto;
+	  font-size:20px;
+	  font-weight:500;
+	  padding-left:10px;
+	  vertical-align: top;
+	  font-style: normal;
+}
+ .table1 {
+     width:100%;
+	 height:auto;
+	 border: thin inset rgb(102, 102, 102);
+	/* border-collapse: collapse;*/
+border-spacing: 0px;
+}
+.table1 tr {
+      width:100%;
+	  height:35px;
+	  font-size:14px;
+	 
+}
+.table1 td {
+      width:230px;
+	  height:35px;
+	  font-size:14px;
+	  text-align:left;
+	  padding-left:10px;
+	 
+}
+.color2 {
+      background-color:#666666;
+	  color:#EEEEEE;
+	  width:100%;
+}
+
+.donerlist_head {
+width:100%;
+height:auto;
+font-family: Stencil Std,calibri;
+color:#b6040c!important;
+text-align:left !important ;
+padding:;
+}
+.donerlist_head th {
+     width:185px;
+	  height:auto;
+	  font-size:20px;
+	  padding-left:;
+	  vertical-align: top;
+	  font-style: normal;
+  }
+.donerlist {
+      width:100%;
+	  height:auto;
+	  text-align:left;
+}
+.donerlist tr {
+      width:100%;
+	  height:35px;
+	  font-size:14px;
+	  height:auto;
+	 
+}
+.donerlist td {
+      width:180px;
+	  height:30px;
+	  font-size:14px;
+	  text-align:left;
+	  padding-left:10px;
+	 
+}
+/*
+========================================================
+                   donate us table
+====================================================
+*/
+.donate_table {
+            width:100%;
+			height:auto;
+			 border: thin inset rgb(102, 102, 102);
+}
+.donate_table tr{
+          width:auto;
+		  height:35px;
+}
+.donate_table td {
+      width:auto;
+	  height:35px;
+	  font-size:14px;
+	  text-align:left;
+	  padding-left:10px;
+	 
+}
+/*
+================================= 
+*/
+.userimg {
+  float:left;
+  width:150px;
+  height:auto;
+}
+/*
+===============================================
+             site map 
+=================================================
+*/
+.sitemap {
+        float:left;
+		width:270px;
+		height:auto;
+		padding-right:20px;
+		border:dashed 1px ;
+}
+.mapbox {
+width: 200px;
+padding: 10px;
+height: auto;
+border: 1px solid gray;
+margin-right: 10px;
+float: left;
+background-color: rgb(223, 223, 223);
+
+}
+.hed {
+font-family: Stencil Std,calibri;
+color:#b6040c!important;
+text-align:left !important ;
+font-size:14px;
+}
+/*
+===============================================================
+                    feedback
+================================================================
+*/
+.feedback {
+    width:700px;
+	height:auto;
+	margin:auto;
+	border: 1px solid gray;
+	overflow: hidden;
+	 background:url(../images/poster/poster2.jpg) !important;
+	/* background:url(../images/fdbg.png) repeat-x !important;*/
+}
+.feedback tr {
+    width:100%;
+	height:40px;
+	padding-top:15px;
+}
+.feedback th {
+text-align:left;
+font-family:sans-serif,arial;
+font-size:16px;
+font-weight:600;
+padding-left:15px;
+}
+.feedback tr td {
+     text-align:left;
+	 padding-left:10px;
+	 width:auto;
+}
+.frmstyle {
+  width: 400px;
+height:35px;
+font-weight:500;
+font-size: 18px;
+}
+.frmstyle a {
+color:#EE0000;
+}
+.textarea {
+width: 400px;
+height:auto;
+font-weight:500;
+font-size: 18px;
+border: 1px  solid #BBBBBB ;
+}
+
+.input {
+width: 75px;
+height: 30px;
+background-color: #000000;
+cursor: pointer;
+color: white;
+font-size: 14px;
+}
+.astky {
+   color:#EE0000; !important ;
+   font-size:22px;
+} 
+/*
+===============================================
+             registration Form style
+=================================================
+*/
+#tableform { 
+
+       width:100%;
+	   height:auto;
+	   border: thin solid rgb(153, 153, 153);
+	    color: rgb(51, 51, 51);
+}
+#tableform tr {
+         padding-left:30px;
+		 width:100%;
+		 height:auto;
+		 text-align:left;
+}
+.

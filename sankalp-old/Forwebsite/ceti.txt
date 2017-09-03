@@ -1,0 +1,33 @@
+S.No.	NAME	BATCH	SPECIAL REMARK	Certificate Sr. No.
+1	AJAY SHANKAR	2010	Member of Academic Team	1027
+2	AMAN	2010	Member of Academic Team	1025
+3	AMARENDRA PANDEY	2010	Member of Finance Team	1024
+4	AMIT KR. ANSHU	2010	Member of Academic Team	1023
+5	ATUL ANAND	2010	Member of Academic Team	1022
+6	ATUL KUMAR KARN	2010	Member of Academic Team	1026
+7	AVINASH KUMAR	2010	Member of Finance Team	1021
+8	BIRMANI KUMAR SINGH	2010	Member of Resource Management Team	1020
+9	CHANDRA PRAKASH	2010	Member of Web Team	1019
+10	MURARI LAL MURARI	2010	Member of Admissions Team	1001
+11	NAVNEET PRABHAKAR	2010	Member of Admissions Team	1028
+12	PHULENDRA KUMAR BHARTI	2010	Member of Academic Team	1000
+13	POORNIKA AWASTHI	2010	Member of Special Activities Team	1002
+14	RAHUL SINGH	2010	Member of Academic Team	1003
+15	ROBIN KUMAR SINGH	2010	Member of Academic Team	1004
+16	SANJEEV KUMAR	2010	Member of Special Activities Team	1005
+17	SHOBHIT AGRAWAL	2010	Member of Academic Team	1006
+18	SHUBHAM TIWARI	2010	Member of Academic Team	1007
+19	SONU KUMAR	2010	Member of Academic Team	1008
+20	SUNDARAM KUMAR SAHANI	2010	Member of Academic Team	1009
+21	SUSHIL KUMAR	2010	Member of Resource Management Team	1010
+22	VIKASH KUMAR	2010	Member of Academic Team	1011
+23	VIVEK KUMAR	2010	Member of Academic Team	1012
+24	VIVEK KUMAR	2010	Member of Finance Team	1013
+25	VIVEK SHARMA	2010	Member of Academic Team	1014
+26	YOGESH KUMAR GUPTA	2010	Member of Finance Team	1015
+27	AYUSH KUMAR	2010	Member of Special Activities Team	1016
+28	ANKIT KUMAR	2010	Member of Academic Team	1017
+29	CHANDAN	2010	Member of Academic Team	1018
+				
+				
+				

@@ -1,0 +1,195 @@
+/*
+=================================================
+                header Rules
+=================================================
+*/
+#top_section {
+        width:100%;
+		height:70px;
+		position:;
+}
+#top_header {
+      width:100%;
+	  height:20px;
+	    /*border-bottom: 1px solid rgb(153, 153, 153);*/
+	 background:url(../images/bg4.jpg) repeat-x !important;
+}
+.text_top {
+      float:left;
+	  padding-top:2px;
+	  padding-left:10px;
+	  font-size:13px;
+	  font-weight: 600;
+	font-family:Arial,sans-serif;
+	color: rgb(252, 183, 18) !important;
+	 /* color: rgb(168, 168, 168); 
+text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.5);*/
+}
+.social_nwk {
+      float:right;
+	  width:auto;
+	  height:auto;
+	  padding-right:30px;
+}
+.zoom_img img{
+
+/*height:30px;
+width:30px;*/
+-moz-transition:-moz-transform 0.1s ease-in; 
+-webkit-transition:-webkit-transform 0.1s ease-in; 
+-o-transition:-o-transform 0.1s ease-in;
+}
+
+.zoom_img img:hover{
+-moz-transform:scale(1.2); 
+-webkit-transform:scale(1.2);
+-o-transform:scale(1.2);
+}
+/*
+=====================================================================
+*/
+#bottom_header {
+       width:100%;
+	   height:50px;
+	   min-width: 1024px;
+	     font-family: Arial,sans-serif;
+        /* border-bottom: 1px solid rgb(102, 102, 102);*/
+         /*overflow: hidden;*/
+	  /* background-color:#000000;*/
+	  background:url(../images/bg1.jpg) repeat-x !important;
+}
+.logo {
+         padding-left:30px;
+		 float:left;
+}
+.logo a:hover {
+      color:;
+}
+.navigation {
+           font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial;
+         float:left;
+		 padding-left:50px;
+		 font-size:16px;
+		padding: 17px 12px;
+}
+.navigation a {
+               padding: 17px 12px;
+          font-weight: 300;
+    color: rgb(168, 168, 168);
+	 letter-spacing: 0px;
+	 font-size: 16px;
+line-height: 16px;
+}
+.navigation a:hover {
+         background: -moz-linear-gradient(center top , rgb(105, 108, 114), rgb(51, 51, 52)) repeat scroll 0% 0% transparent;
+text-shadow: 0px 0px 3px rgb(255, 255, 255);
+color: rgb(255, 255, 255);
+         
+}
+#searchbox {display:block; background:url(../images/bg-search.gif) no-repeat; height:21px; width:246px;padding: 17px 12px;}
+#searchbox input {background:none; border:none; outline:none; padding:4px 0 0 23px; color:#666; font-size:0.9em;}
+/*
+================================================
+             footer section Rules
+================================================
+*/
+#bottom_section {
+         width:100%;
+		 height:180px;
+		 padding-top:30px;
+		 background-position: bottom;
+		background:url(../images/bgfooter.jpg) repeat-x !important;
+}
+#top_footer {
+     width:960px;
+	 margin:auto;
+	 font-size:11px;
+	 height:130px;
+	 padding-top:0px;
+	 font-family:Arial,sans-serif;
+	/* color:#EEEEEE;
+	 font-weight:600;*/
+	
+}
+
+/*.contact_us {
+        float:right;
+		width:300px;
+		height:auto;
+		color: #440000;
+		
+		padding-top:20px;
+}
+.contact_us ul {
+       float: left;
+       padding-bottom:;
+}
+.contact_us ul li {
+         list-style-type: none;
+         list-style-image: none;
+} */
+.links{
+         float:left;
+         width:185px !important ;
+		 height:auto;
+		 padding-top:0px;
+		
+}
+.links {
+url("//1.www.s81c.com/i/v17/bullets.gif") no-repeat scroll -2px 2px transparent;
+}   
+.links a:hover {
+    color: rgb(255, 255, 255);
+}
+.links a {
+    color: rgb(168, 168, 168);
+    display: block;
+	padding-bottom:3px;
+	 line-height: 14px;
+    text-decoration: none;
+    text-shadow: 0px 0px 2px rgb(0, 0, 0);
+} 
+.links  ul {
+    line-height: 10px;
+	    list-style: none outside none;
+}
+/*
+============================================================
+*/
+#bottom_footer {
+   width:960px;
+   height:auto;
+   margin:auto;
+	font-size:11px;
+	font-family:Arial,sans-serif;
+	
+}
+.copyright {
+	padding-top:1px;
+	float:left;
+	padding-right:27px;
+	color:#999999;
+}
+.copyright a {
+  color: rgb(168, 168, 168);
+    display:;
+    text-decoration: none;
+   
+/*	color:#1a5876;*/
+	text-decoration:none;
+}
+.copyright a:hover{
+    
+     color: rgb(255, 255, 255);
+}
+/*.top {
+	margin-top:1px;
+	/*background-image:url(images/top1.jpg);
+	background:url(../images/top1.jpg) no-repeat right;
+	line-height:15px;
+	color:#08387f;	
+	display:inline-block;
+	padding-right:20px;
+	float:right;
+	font-size:14px;
+}*/
